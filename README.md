@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soyad Abrar</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<img algin="right" alt="coading" width="400" scr="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img algin="right" alt="coading" width="400" scr="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonhossain59845&label=Profile%20views&color=0e75b6&style=flat" alt="emonhossain59845" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/emonhossain59845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emonhossain59845" height="30" width="40" /></a>
-<a href="https://fb.com/emon hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emon hossain" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/soyadabrar?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soyadabrar?mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,8 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emonhossain59845&show_icons=true&locale=en" alt="emonhossain59845" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emonhossain59845&" alt="emonhossain59845" /></p>
-
-<!---
-emonhossain59845/emonhossain59845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
