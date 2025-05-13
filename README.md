@@ -1,3 +1,4 @@
+![Pi Day LED display preview](https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif)
 <h1 align="center">Hi 👋, I'm Soyad Abrar</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 <img align="right" alt="Coder GIF"height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
